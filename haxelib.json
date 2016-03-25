@@ -3,7 +3,7 @@
     "url" : "https://github.com/buckle2000/haxe_pyscript",
     "license": "MIT",
     "tags": ["python", "parser", "scripting"],
-    "description": "Parser of Python.",
+    "description": "Parser of Python. Just started.",
     "version": "0.0.1",
     "releasenote": "Under Construction...",
     "contributors": ["buckle2000"],
